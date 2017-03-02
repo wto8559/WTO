@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-aaattt   github
-=======
-aaattt  beta
->>>>>>> Stashed changes
+aaattt   beta
