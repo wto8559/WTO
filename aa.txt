@@ -1,7 +1,3 @@
 aaa
 aaaaaaaa
-aaaaaaaaaa<<<<<<< .mine
-www
-=======
-
->>>>>>> .theirs
+aaaaaaaaaa
