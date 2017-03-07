@@ -1,4 +1,7 @@
-aaawww
+aaa
+aaaaaaaa
+aaaaaaaaaa<<<<<<< .mine
 www
-www
-www
+=======
+
+>>>>>>> .theirs
